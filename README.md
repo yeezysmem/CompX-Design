@@ -9,6 +9,7 @@
 ![Figma](https://img.shields.io/badge/-Figma-41AB58?style=for-the-badge&logo=figma&logoColor=ffffff)
 
 ![Link-to-project](https://github.com/WebDefi/compx-gigabyte)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=WebDefi&repo=compx-gigabyte&theme=dark)](https://github.com/yeezysmem/compx-gigabyte)
 
 
 
