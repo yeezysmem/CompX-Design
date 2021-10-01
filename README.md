@@ -8,6 +8,8 @@
 ![React](https://img.shields.io/badge/-React+MUI-41AB58?style=for-the-badge&logo=react&logoColor=ffffff)
 ![Figma](https://img.shields.io/badge/-Figma-41AB58?style=for-the-badge&logo=figma&logoColor=ffffff)
 
-[![Readme Card](https://.vercel.app/api/pin/?username=WebDefi&repo=compx-gigabyte&theme=dark)](https://github.com/WebDefi/compx-gigabyte)
+![Readme Card](Link to project)(https://github.com/WebDefi/compx-gigabyte)
+
+
 
 ![](https://github.com/yeezysmem/CompX-Design/blob/main/Frame3.jpg)
