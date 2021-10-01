@@ -8,7 +8,7 @@
 ![React](https://img.shields.io/badge/-React+MUI-41AB58?style=for-the-badge&logo=react&logoColor=ffffff)
 ![Figma](https://img.shields.io/badge/-Figma-41AB58?style=for-the-badge&logo=figma&logoColor=ffffff)
 
-![Readme Card](Link to project)(https://github.com/WebDefi/compx-gigabyte)
+![Link-to-project](https://github.com/WebDefi/compx-gigabyte)
 
 
 
